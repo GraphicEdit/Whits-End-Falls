@@ -204,17 +204,17 @@ PrefabInstance:
     - target: {fileID: 6285983987028371110, guid: 60bb0760748b4a040ad62781647d120c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 341.7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6285983987028371110, guid: 60bb0760748b4a040ad62781647d120c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 46.6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6285983987028371110, guid: 60bb0760748b4a040ad62781647d120c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -21.7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6285983987028371110, guid: 60bb0760748b4a040ad62781647d120c,
         type: 3}
@@ -255,6 +255,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: field of view
+      value: 38.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: m_FOVAxisMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: m_projectionMatrixMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: m_GateFitMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: m_FocalLength
+      value: 34.075848
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: m_AllowDynamicResolution
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6285983987028371111, guid: 60bb0760748b4a040ad62781647d120c,
+        type: 3}
+      propertyPath: m_OcclusionCulling
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60bb0760748b4a040ad62781647d120c, type: 3}
